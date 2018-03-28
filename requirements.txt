@@ -1,0 +1,6 @@
+Pyhton 2.7 or 3.*
+
+Libraries:
+
+1)opencv
+2)numpy
